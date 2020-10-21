@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<festival>
+    <categorias>
+        <categoria casificacion="Comedia" codigo="COM"></categoria>
+        <categoria casificacion="Drama" codigo="DRA"></categoria>
+        <categoria casificacion="Aventuras" codigo="AVE"></categoria>
+        <categoria casificacion="Ciencia Ficcion" codigo="CIE"></categoria>
+    </categorias>
+    <peliculas>
+        <pelicula>
+            <nombre>Un monstruo viene a verme</nombre>
+            <estreno>2016</estreno>
+            <codigopelicula>MVV2016</codigopelicula>
+            <categoria>Drama</categoria>
+            <genero>Comedia</genero>
+            <director>Juan Antonio Bayona</director>
+            <actores>
+                <actor>
+                    <nombreactor>Felicity Jones</nombreactor>
+                    <nacionalidad>Britanica</nacionalidad>
+                </actor>
+                <actor>
+                    <nombreactor>Liam Neeson</nombreactor>
+                    <nacionalidad>>Britanico</nacionalidad>
+                </actor>
+            </actores>
+        </pelicula>
+        <pelicula>
+            <nombre>Un monstruo viene a verme</nombre>
+            <estreno>2016</estreno>
+            <codigopelicula>MVV2016</codigopelicula>
+            <categoria>Drama</categoria>
+            <genero>Comedia</genero>
+            <director>Juan Antonio Bayona</director>
+            <actores>
+                <actor>
+                    <nombreactor>Felicity Jones</nombreactor>
+                    <nacionalidad>Britanica</nacionalidad>
+                </actor>
+                <actor>
+                    <nombreactor>Liam Neeson</nombreactor>
+                    <nacionalidad>>Britanico</nacionalidad>
+                </actor>
+            </actores>
+        </pelicula>
+        <pelicula>
+                  <nombre>Un monstruo viene a verme</nombre>
+            <estreno>2016</estreno>
+            <codigopelicula>MVV2016</codigopelicula>
+            <categoria>Drama</categoria>
+            <genero>Comedia</genero>
+            <director>Juan Antonio Bayona</director>
+            <actores>
+                <actor>
+                    <nombreactor>Felicity Jones</nombreactor>
+                    <nacionalidad>Britanica</nacionalidad>
+                </actor>
+                <actor>
+                    <nombreactor>Liam Neeson</nombreactor>
+                    <nacionalidad>>Britanico</nacionalidad>
+                </actor>
+            </actores>
+        </pelicula>
+        <pelicula>
+            
+        
+        </pelicula>
+    </peliculas>
+</festival>
